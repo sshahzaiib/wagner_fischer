@@ -5,7 +5,7 @@ This script implements the Wagner-Fischer algorithm to compute the Levenshtein d
 ## Prerequisites
 
 - Node.js
-- zx
+- [zx](https://github.com/google/zx)
 
 ## Installation
 
